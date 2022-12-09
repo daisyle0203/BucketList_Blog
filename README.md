@@ -1,4 +1,4 @@
-# project2-CRUD-Happens
+# Bucket List Blog
 
 ## Description
 
@@ -37,7 +37,7 @@ APIs Used
 
 ## Link To Deployed Application
 
-- Heroku Link: (https://bucket-list-blog.herokuapp.com/)
+- Heroku Link: (https://lit-lake-93961.herokuapp.com/)
 
 ## License
 
